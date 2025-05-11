@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am working from India. I write Java at work. Currently learning golang.
 <!--
 **kcterala/kcterala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
