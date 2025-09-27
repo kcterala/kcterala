@@ -1,4 +1,4 @@
-## Krishna Chaitanya Terala
+# Krishna Chaitanya Terala
 
 Hi, I'm Krishna Chaitanya Terala. I am a software engineer at [Finfactor](https://finfactor.in)
 <!--
