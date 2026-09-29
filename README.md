@@ -1,6 +1,7 @@
 ### Hi, I'm Krishna Chaitanya Terala
 
 Software developer at [Finfactor](https://finfactor.in)
+
 More about me [here](https://kcterala.dev)
 <!--
 **kcterala/kcterala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
